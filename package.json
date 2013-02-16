@@ -16,5 +16,8 @@
   "author": "",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "7d285a0e317e2cfbce83368a7f6e629a8e2841f8"
+  "gitHead": "7d285a0e317e2cfbce83368a7f6e629a8e2841f8",
+  "devDependencies": {
+    "mocha": "~1.8.1"
+  }
 }
